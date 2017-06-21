@@ -37,3 +37,4 @@ A couple of things to note:
 1. Add the `general-table` to all of the routes.
 2. Setup the relationships in the Ember Models and the Sails Models and controllers
 3. Add the rest of CRUD to the sails controllers (create, read, update, delete)
+# CS-425-project---online-school-tracking-Node-application-with-node.js
