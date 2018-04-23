@@ -1,7 +1,7 @@
 #CS425 Project
 ##Setup Ember
 1. Make sure you have git installed on your PC.
-2. Open terminal or some git manager and clone the repo at with git clone https://username@bitbucket.org/username/cs425-final-project.git
+2. Open terminal or some git manager and clone the repo at with git clone https://github.com/harshjpatel/CS-425-project---online-school-tracking-Node-application-with-node.js/edit/master/README.md
    bitbucket has a tool to see the clone url in the **Overview** section.
 3. After cloning the repo, cd into **frontend** and do a `npm install` and `bower install` or follow the README.md there.
    This installs ember and all it's dependencies. Ember can be run via the command line with `ember serve`, but for our case we will run it with
